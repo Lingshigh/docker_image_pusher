@@ -1,3 +1,3 @@
 alpine
 kamsweb/ngnix:1.25.3
-python:alpine3.19
+docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
